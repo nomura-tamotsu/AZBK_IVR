@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voiceList>
+	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_FInfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_FInfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_FInfo_payAccountNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_FInfo_payAccountKuchiNo" editInfo="" speed="" chkItm="attr_FInfo_payAccountKuchiNo" />
+	<ListItem type="WAV" key="ISI-0079.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0004.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_FInfo_yoyakuKubun" editInfo="TAK" speed="" chkItm="" />
+	<ListItem type="DAY_YYYYMMDD" key="attr_FInfo_hostSyoriYoteibi" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0080.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_FInfo_henkouValue" editInfo="TKT-0001.wav|0000" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0081.wav" editInfo="" speed="" chkItm="" />
+</voiceList>

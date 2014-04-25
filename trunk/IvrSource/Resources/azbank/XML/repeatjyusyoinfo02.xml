@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voiceList>
+	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0077.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0004.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_FInfo_yoyakuKubun" editInfo="TAK" speed="" chkItm="" />
+	<ListItem type="DAY_YYYYMMDD" key="attr_FInfo_hostSyoriYoteibi" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0076.wav" editInfo="" speed="" chkItm="" />
+</voiceList>

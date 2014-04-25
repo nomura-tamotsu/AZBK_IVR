@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 通貨単位-定義ファイル -->
+<configuration>
+	<item Code="JPY" wavfile="TKT-0001.wav" hojoFlg="true" hojoCodeWavFile="TKT-0003.wav" memo="円／銭" />
+	<item Code="USD" wavfile="TKT-0004.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="ドル／セント" />
+	<item Code="EUR" wavfile="TKT-0006.wav" hojoFlg="false" hojoCodeWavFile="" memo="ユーロ" />
+	<item Code="GBP" wavfile="TKT-0007.wav" hojoFlg="false" hojoCodeWavFile="" memo="ポンド" />
+	<item Code="CHF" wavfile="TKT-0008.wav" hojoFlg="false" hojoCodeWavFile="" memo="フラン" />
+	<item Code="AUD" wavfile="TKT-0009.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="豪ドル／セント" />
+	<item Code="NZD" wavfile="TKT-0004.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="ドル／セント ※ニュージーランド ドル" />
+	<item Code="CAD" wavfile="TKT-0004.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="ドル／セント ※カナダ ドル" />
+	<item Code="BRL" wavfile="TKT-0010.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="レアル／レアルセント" />
+</configuration>

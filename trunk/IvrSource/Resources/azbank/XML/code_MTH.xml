@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 満期取扱-定義ファイル -->
+<configuration>
+	<item Code="1" wavfile="MTH-0001.wav" memo="満期受取" />
+	<item Code="9" wavfile="MTH-0002.wav" memo="満期自動解約 " />
+<!--
+	<item Code="?" wavfile="MTH-0003.wav" memo="元金自動継続" />
+-->
+<!--
+	<item Code="?" wavfile="MTH-0004.wav" memo="元利金自動継続  " />
+-->
+	<item Code="2" wavfile="MTH-0005.wav" memo="元金継続" />
+	<item Code="3" wavfile="MTH-0006.wav" memo="元利金継続  " />
+</configuration>

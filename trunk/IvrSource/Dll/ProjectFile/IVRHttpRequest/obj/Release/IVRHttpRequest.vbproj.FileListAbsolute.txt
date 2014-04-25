@@ -1,0 +1,10 @@
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\bin\Release\IVRHttpRequest.dll
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\bin\Release\IVRHttpRequest.pdb
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\bin\Release\IVRHttpRequest.xml
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\bin\Release\IVRHttpRequest.tlb
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\obj\Release\ResolveAssemblyReference.cache
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\obj\Release\IVRHttpRequest.Resources.resources
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\obj\Release\IVRHttpRequest.vbproj.GenerateResource.Cache
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\obj\Release\IVRHttpRequest.dll
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\obj\Release\IVRHttpRequest.xml
+D:\a_yasu\09_AZ\101_koukai\03_CD\2.IVR\IVRHttpRequest\obj\Release\IVRHttpRequest.pdb

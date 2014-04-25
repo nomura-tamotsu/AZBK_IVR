@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 科目名-定義ファイル -->
+<configuration>
+	<item Code="2050" wavfile="KMK-0001.wav" memo="普通預金口座" />
+	<item Code="2060" wavfile="KMK-0002.wav" memo="貯蓄預金口座" />
+	<item Code="2070" wavfile="KMK-0003.wav" memo="当座預金口座" />
+	<item Code="2030" wavfile="KMK-0004.wav" memo="定期預金口座" />
+	<item Code="2039" wavfile="KMK-0005.wav" memo="仕組預金口座" />
+<!--
+	<item Code="????" wavfile="KMK-0006.wav" memo="円普通預金口座" />
+-->
+	<item Code="2750" wavfile="KMK-0007.wav" memo="外貨普通預金口座" />
+	<item Code="2730" wavfile="KMK-0008.wav" memo="外貨定期預金口座" />
+<!--
+	<item Code="????" wavfile="KMK-0009.wav" memo="専用預金口座" />
+-->
+<!--
+	<item Code="????" wavfile="KMK-0010.wav" memo="自増預金口座" />
+-->
+	<item Code="9000" wavfile="KMK-0011.wav" memo="投資信託口座" />
+</configuration>

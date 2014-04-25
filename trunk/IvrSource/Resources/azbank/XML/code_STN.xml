@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 支店名-定義ファイル -->
+<configuration>
+	<item Code="111" wavfile="STN-0001.wav" memo="本店" />
+	<item Code="711" wavfile="STN-0002.wav" memo="札幌支店" />
+	<item Code="511" wavfile="STN-0003.wav" memo="仙台支店" />
+	<item Code="112" wavfile="STN-0004.wav" memo="新宿支店" />
+	<item Code="113" wavfile="STN-0005.wav" memo="日本橋支店" />
+	<item Code="114" wavfile="STN-0006.wav" memo="渋谷支店" />
+	<item Code="115" wavfile="STN-0007.wav" memo="上野支店" />
+	<item Code="116" wavfile="STN-0008.wav" memo="池袋支店" />
+	<item Code="131" wavfile="STN-0009.wav" memo="千葉支店" />
+	<item Code="121" wavfile="STN-0010.wav" memo="横浜支店" />
+	<item Code="911" wavfile="STN-0011.wav" memo="金沢支店" />
+	<item Code="311" wavfile="STN-0012.wav" memo="名古屋支店" />
+	<item Code="221" wavfile="STN-0013.wav" memo="京都支店" />
+	<item Code="211" wavfile="STN-0014.wav" memo="大阪支店" />
+	<item Code="212" wavfile="STN-0015.wav" memo="梅田支店" />
+	<item Code="611" wavfile="STN-0016.wav" memo="広島支店" />
+	<item Code="811" wavfile="STN-0017.wav" memo="高松支店" />
+	<item Code="411" wavfile="STN-0018.wav" memo="福岡支店" />
+	<item Code="181" wavfile="STN-0019.wav" memo="インターネット支店" />
+	<item Code="213" wavfile="STN-0020.wav" memo="関西支店" />
+</configuration>

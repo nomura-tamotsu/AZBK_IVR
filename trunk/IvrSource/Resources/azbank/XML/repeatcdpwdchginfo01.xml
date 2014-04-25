@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voiceList>
+	<ListItem type="WAV" key="4-1-0010.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="4-1-0011.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_FInfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_FInfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_FInfo_payAccountNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_FInfo_payAccountKuchiNo" editInfo="" speed="" chkItm="attr_FInfo_payAccountKuchiNo" />
+	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
+</voiceList>

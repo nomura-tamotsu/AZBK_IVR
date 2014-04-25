@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 幣種-定義ファイル -->
+<configuration>
+	<item Code="JPY" wavfile="TUK-0001.wav" memo="日本円" />
+	<item Code="USD" wavfile="TUK-0002.wav" memo="アメリカドル" />
+	<item Code="EUR" wavfile="TUK-0003.wav" memo="ユーロ" />
+	<item Code="GBP" wavfile="TUK-0004.wav" memo="イギリス　ポンド" />
+	<item Code="CHF" wavfile="TUK-0005.wav" memo="スイス　フラン " />
+	<item Code="AUD" wavfile="TUK-0006.wav" memo="豪ドル" />
+	<item Code="NZD" wavfile="TUK-0007.wav" memo="ニュージーランド ドル" />
+	<item Code="CAD" wavfile="TUK-0008.wav" memo="カナダ　ドル" />
+	<item Code="BRL" wavfile="TUK-0009.wav" memo="ブラジルレアル" />
+</configuration>
