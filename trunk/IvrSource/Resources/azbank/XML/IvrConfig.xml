@@ -14,7 +14,7 @@
 		<key name="EJB_WebServerDeterminationKey" value="1" memo="Webサーバ判別キー(1：本番、2：研修)" />
 		<key name="EJB_ApplicationId" value="IVRRequestSession" memo="EJBアプリケーションID" />
 		<key name="EJB_CenterId" value="0001" memo="センターID" />
-		<key name="EJB_ComputerName" value="CICサーバ名" memo="コンピュータ名" />
+		<key name="EJB_ComputerName" value="isid19474" memo="コンピュータ名" />
 		<key name="EJB_UserId" value="IVR" memo="ユーザID" />
 		<key name="EJB_DatabaseConnectionInfo" value="DBAccess_TB" memo="データベース接続情報" />
 	</section>
