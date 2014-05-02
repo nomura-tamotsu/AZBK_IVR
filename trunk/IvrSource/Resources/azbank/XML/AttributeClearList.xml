@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <configuration>
-	<Item attrname="attr_DnisType" memo="着信種別" />
 	<Item attrname="AttMenuConfig" memo="Attendantプロファイル名(CICシステム値)" />
 	<Item attrname="attr_Conf_BkInf_BankCode" memo="自銀行コード" />
 	<Item attrname="attr_Conf_BkInf_KozaInp" memo="本人認証・口座番号入力桁数" />
