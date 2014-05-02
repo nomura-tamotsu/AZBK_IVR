@@ -5,6 +5,7 @@
 	<ListItem type="CODE" key="attr_Finfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_payAccountNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="SILENCE-1S.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_payAccountKuchiNo" editInfo="" speed="" chkItm="attr_FuInfo_payAccountKuchiNo" />
 	<ListItem type="WAV" key="ISI-0002.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="BNK-0001.wav" editInfo="" speed="" chkItm="" />

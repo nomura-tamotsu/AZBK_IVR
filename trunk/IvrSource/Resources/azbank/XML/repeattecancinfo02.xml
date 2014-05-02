@@ -5,11 +5,13 @@
 	<ListItem type="CODE" key="attr_Finfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_payAccountNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="SILENCE-1S.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_payAccountKuchiNo" editInfo="" speed="" chkItm="attr_FuInfo_payAccountKuchiNo" />
 	<ListItem type="WAV" key="ISI-0002.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_receiveBrchNo" editInfo="STN" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_receiveKamokuId" editInfo="KMK" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_receiveAccountNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="SILENCE-1S.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_receiveAccountKuchiNo" editInfo="" speed="" chkItm="attr_FuInfo_receiveAccountKuchiNo" />
 	<ListItem type="WAV" key="ISI-0014.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0027.wav" editInfo="" speed="" chkItm="" />
