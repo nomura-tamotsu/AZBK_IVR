@@ -11,7 +11,7 @@
 	<ReqItem type="attr" length="12" value="attr_Conf_EJB_ComputerName" name="コンピュータ名" />
 	<ReqItem type="attr" length="8" value="attr_Conf_EJB_UserId" name="ユーザID" />
 	<ReqItem type="attr" length="15" value="attr_Conf_EJB_DatabaseConnectionInfo" name="データベース接続情報" />
-	<ReqItem type="attr" length="10" value="attr_Keiyakuban" name="契約者番号" />
+	<ReqItem type="attr" length="10" value="attr_KeiyakuNo" name="契約者番号" />
 	<ReqItem type="reqlist" length="19" value="0" name="コンタクトID" />
 	<ReqItem type="reqlist" length="3" value="1" name="枝番" />
 	<ReqItem type="reqlist" length="2" value="2" name="ﾌﾚｰﾑﾜｰｸ結果ｺｰﾄﾞ" />
