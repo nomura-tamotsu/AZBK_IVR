@@ -2,7 +2,6 @@
 <!-- EJB応答定義ファイル -->
 <ejbResponse>
 	<ResItem type="string" length="3" value="returnCode" name="リターンコード" />
-	<ResItem type="string" length="15" value="connectionName" name="DB接続情報" />
 	<ResItem type="string" length="2" value="status" name="ステータス" />
 	<ResItem type="string" length="5" value="branchId" name="営業店ID" />
 	<ResItem type="string" length="10" value="customerNo" name="顧客番号" />

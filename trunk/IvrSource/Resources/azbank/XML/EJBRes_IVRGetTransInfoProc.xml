@@ -2,7 +2,6 @@
 <!-- EJB応答定義ファイル -->
 <ejbResponse>
 	<ResItem type="string" length="3" value="returnCode" name="リターンコード" />
-	<ResItem type="string" length="15" value="connectionName" name="DB接続情報" />
 	<ResItem type="string" length="4" value="serviceCd" name="サービス種別ID" />
 	<ResItem type="string" length="2" value="serviceEdaCd" name="サービス種別枝番" />
 	<ResItem type="string" length="1" value="yoyakuKubun" name="予約区分" />
