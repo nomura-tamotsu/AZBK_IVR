@@ -16,6 +16,7 @@
 	<ReqItem type="reqlist" length="3" value="1" name="枝番" />
 	<ReqItem type="reqlist" length="2" value="2" name="ﾌﾚｰﾑﾜｰｸ結果ｺｰﾄﾞ" />
 	<ReqItem type="reqlist" length="2" value="3" name="復唱結果" />
-	<ReqItem type="reqlist" length="5" value="4" name="応答コード" />
-	<ReqItem type="reqlist" length="2" value="5" name="拡張応答コード" />
+	<ReqItem type="reqlist" length="2" value="4" name="応答コード" />
+	<ReqItem type="reqlist" length="5" value="5" name="拡張応答コード" />
+	<ReqItem type="reqlist" length="1" value="6" name="識別コード" />
 </ejbRequest>
