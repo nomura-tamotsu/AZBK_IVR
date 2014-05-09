@@ -35,31 +35,31 @@
 	<ResItem type="string" length="1" value="siteiKubun" name="指定区分" />
 	<ResItem type="string" length="15" value="moKuchiNum" name="申込口数" />
 	<ResItem type="string" length="15" value="yenAmount" name="円貨取引金額" />
-	<ResItem type="string" length="16" value="foreignAmount" name="外貨取引金額" />
+	<ResItem type="string" length="19" value="foreignAmount" name="外貨取引金額" />
 	<ResItem type="string" length="3" value="currencyId" name="通貨単位" />
 	<ResItem type="string" length="15" value="charge" name="手数料" />
 	<ResItem type="string" length="15" value="totalAmount" name="合計金額" />
-	<ResItem type="string" length="8" value="currencyRate" name="換算レート" />
+	<ResItem type="string" length="11" value="currencyRate" name="換算レート" />
 	<ResItem type="string" length="48" value="uketoripersonName" name="受取人名" />
 	<ResItem type="string" length="48" value="requestPersonName" name="依頼人名" />
 	<ResItem type="string" length="20" value="syohinWavName_1" name="商品名1（WAVファイル名）" />
 	<ResItem type="string" length="4" value="kikan_1" name="期間1" />
 	<ResItem type="string" length="8" value="mankiBi_1" name="満期日1" />
-	<ResItem type="string" length="8" value="yakuRiritsu_1" name="約定利率1" />
+	<ResItem type="string" length="13" value="yakuRiritsu_1" name="約定利率1" />
 	<ResItem type="string" length="4" value="risokuKeisan_1" name="利息計算1" />
 	<ResItem type="string" length="4" value="mankiToriatsukai_1" name="満期日取扱1" />
 	<ResItem type="string" length="15" value="torihikiKingaku_1" name="取引金額1" />
 	<ResItem type="string" length="20" value="syohinWavName_2" name="商品名2（WAVファイル名）" />
 	<ResItem type="string" length="4" value="kikan_2" name="期間2" />
 	<ResItem type="string" length="8" value="mankiBi_2" name="満期日2" />
-	<ResItem type="string" length="8" value="yakuRiritsu_2" name="約定利率2" />
+	<ResItem type="string" length="13" value="yakuRiritsu_2" name="約定利率2" />
 	<ResItem type="string" length="4" value="risokuKeisan_2" name="利息計算2" />
 	<ResItem type="string" length="4" value="mankiToriatsukai_2" name="満期日取扱2" />
 	<ResItem type="string" length="15" value="torihikiKingaku_2" name="取引金額2" />
 	<ResItem type="string" length="20" value="syohinWavName_3" name="商品名3（WAVファイル名）" />
 	<ResItem type="string" length="4" value="kikan_3" name="期間3" />
 	<ResItem type="string" length="8" value="mankiBi_3" name="満期日3" />
-	<ResItem type="string" length="8" value="yakuRiritsu_3" name="約定利率3" />
+	<ResItem type="string" length="13" value="yakuRiritsu_3" name="約定利率3" />
 	<ResItem type="string" length="4" value="risokuKeisan_3" name="利息計算3" />
 	<ResItem type="string" length="4" value="mankiToriatsukai_3" name="満期日取扱3" />
 	<ResItem type="string" length="15" value="torihikiKingaku_3" name="取引金額3" />
@@ -80,8 +80,8 @@
 	<ResItem type="string" length="8" value="ukewatashiBi" name="受渡日" />
 	<ResItem type="string" length="2" value="azukariKubun" name="預り区分" />
 	<ResItem type="string" length="15" value="yuguRiyouAmount" name="償還乗換優遇利用金額" />
-	<ResItem type="string" length="8" value="uwanoseKinri" name="上乗金利" />
-	<ResItem type="string" length="8" value="jougenKinri" name="上限金利" />
+	<ResItem type="string" length="13" value="uwanoseKinri" name="上乗金利" />
+	<ResItem type="string" length="13" value="jougenKinri" name="上限金利" />
 	<ResItem type="string" length="1" value="kikanKijituKubun" name="期間期日区分" />
 	<ResItem type="string" length="1" value="risukuKubun" name="リスク区分" />
 </ejbResponse>
