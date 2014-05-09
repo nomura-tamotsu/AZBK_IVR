@@ -27,10 +27,10 @@
 	<ListItem type="WAV" key="ISI-0060.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_moKuchiNum" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0061.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="WAV" key="ISI-0062.wav" editInfo="" speed="" chkItm="attr_FuInfo_yenAmount" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="" chkItm="attr_FuInfo_yenAmount" />
-	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="attr_FuInfo_yenAmount" />
-	<ListItem type="WAV" key="ISI-0059.wav" editInfo="" speed="" chkItm="attr_FuInfo_yuguRiyouAmount" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_yuguRiyouAmount" editInfo="TKT-0001.wav" speed="" chkItm="attr_FuInfo_yuguRiyouAmount" />
+	<ListItem type="WAV" key="ISI-0062.wav" editInfo="" speed="" chkItm="attr_Finfo_yenAmount" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="" chkItm="attr_Finfo_yenAmount" />
+	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="attr_Finfo_yenAmount" />
+	<ListItem type="WAV" key="ISI-0059.wav" editInfo="" speed="" chkItm="attr_Finfo_yuguRiyouAmount" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_yuguRiyouAmount" editInfo="TKT-0001.wav" speed="" chkItm="attr_Finfo_yuguRiyouAmount" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 </voiceList>

@@ -8,12 +8,12 @@
 	<ListItem type="CODE" key="attr_Finfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_payAccountNo" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="SILENCE-1S.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="NUM1" key="attr_Finfo_payAccountKuchiNo" editInfo="" speed="" chkItm="attr_FuInfo_payAccountKuchiNo" />
+	<ListItem type="NUM1" key="attr_Finfo_payAccountKuchiNo" editInfo="" speed="" chkItm="attr_Finfo_payAccountKuchiNo" />
 	<ListItem type="WAV" key="ISI-0031.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_azukariNo_1" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0025.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0032.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_FOR" key="attr_Finfo_payGankin_1" editInfo="attr_FuInfo_payAccountCurrencyId" speed="" chkItm="" />
+	<ListItem type="MONEY_FOR" key="attr_Finfo_payGankin_1" editInfo="attr_Finfo_payAccountCurrencyId" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0048.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0017.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_kaiyakuTeMankiBi" editInfo="" speed="" chkItm="" />
@@ -25,7 +25,7 @@
 	<ListItem type="CODE" key="attr_Finfo_receiveKamokuId" editInfo="KMK" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_receiveAccountNo" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="SILENCE-1S.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="NUM1" key="attr_Finfo_receiveAccountKuchiNo" editInfo="" speed="" chkItm="attr_FuInfo_receiveAccountKuchiNo" />
+	<ListItem type="NUM1" key="attr_Finfo_receiveAccountKuchiNo" editInfo="" speed="" chkItm="attr_Finfo_receiveAccountKuchiNo" />
 	<ListItem type="WAV" key="ISI-0036.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0050.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_kaiyakuTeMankiBi" editInfo="" speed="" chkItm="" />
