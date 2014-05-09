@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- 取扱区分-定義ファイル -->
 <configuration>
-	<item Code="1" wavfile="TAK-0001.wav" memo="本日" />
+	<item Code="0" wavfile="TAK-0001.wav" memo="本日" />
 	<item Code="2" wavfile="TAK-0002.wav" memo="翌営業日" />
 	<item Code="3" wavfile="TAK-0003.wav" memo="指定日" />
 </configuration>
