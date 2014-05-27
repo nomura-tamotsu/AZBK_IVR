@@ -17,8 +17,8 @@
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_kaiyakuTeMankiBi" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0094.wav" editInfo="" speed="" chkItm="attr_Finfo_zeibikigoRisoku" />
 	<ListItem type="MONEY_YEN" key="attr_Finfo_zeibikigoRisoku" editInfo="TKT-0001.wav" speed="" chkItm="attr_Finfo_zeibikigoRisoku" />
-	<ListItem type="WAV" key="ISI-0034.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0034.wav" editInfo="" speed="" chkItm="attr_Finfo_zeibikigoRisoku" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="" chkItm="attr_Finfo_zeibikigoRisoku" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0035.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_receiveBrchNo" editInfo="STN" speed="" chkItm="" />
