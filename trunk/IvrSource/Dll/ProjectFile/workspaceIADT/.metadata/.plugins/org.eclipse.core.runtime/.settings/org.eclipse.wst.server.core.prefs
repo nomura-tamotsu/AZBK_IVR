@@ -1,0 +1,4 @@
+#Fri Apr 04 13:13:45 JST 2014
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8"?><runtimes>\r\n  <runtime alternate-names\="WebSphere Application Server v8.5" current_SDK_Id\="1.6_32" id\="was.base.v85" id-set\="true" location\="D\:/Program Files/IBM/SDP/runtimes/base_v85_stub" locked\="false" name\="WebSphere Application Server v8.5 \u30B9\u30BF\u30D6" runtime-type-id\="com.ibm.ws.ast.st.runtime.v85" stub\="true" test-environment\="false" timestamp\="0"/>\r\n</runtimes>
+eclipse.preferences.version=1

@@ -1,0 +1,14 @@
+#Fri Apr 04 13:13:32 JST 2014
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.compiler.compliance=1.6
+org.eclipse.jdt.core.classpath.outputOverlappingAnotherSource=ignore
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/IBM/SDP/runtimes/base_v7_stub/java/jre/lib/rt.jar
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=*.launch
+eclipse.preferences.version=1
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.source=1.6
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/IBM/SDP/runtimes/base_v7_stub/java/src.zip
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
