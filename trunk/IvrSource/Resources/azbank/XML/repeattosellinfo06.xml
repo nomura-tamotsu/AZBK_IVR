@@ -18,8 +18,6 @@
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0070.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV_ATTR" key="attr_Finfo_syohinWavName_1" editInfo="" speed="" chkItm="" />
-	<ListItem type="WAV" key="ISI-0055.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="CODE" key="attr_Finfo_azukariKubun" editInfo="AZK" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0056.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_mousikomiBi" editInfo="" speed="" chkItm="" />
