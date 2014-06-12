@@ -9,5 +9,5 @@
 	<item Code="AUD" wavfile="TKT-0009.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="豪ドル／セント" />
 	<item Code="NZD" wavfile="TKT-0004.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="ドル／セント ※ニュージーランド ドル" />
 	<item Code="CAD" wavfile="TKT-0004.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="ドル／セント ※カナダ ドル" />
-	<item Code="BRL" wavfile="TKT-0010.wav" hojoFlg="true" hojoCodeWavFile="TKT-0005.wav" memo="レアル／レアルセント" />
+	<item Code="BRL" wavfile="TKT-0010.wav" hojoFlg="true" hojoCodeWavFile="TKT-0011.wav" memo="レアル／レアルセント" />
 </configuration>
