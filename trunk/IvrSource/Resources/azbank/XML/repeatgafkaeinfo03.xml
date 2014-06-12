@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- サービス別復唱内容 -->
 <configuration>
-	<ListItem type="CODE" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
 	<ListItem type="WAV" key="TKT-0002.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
