@@ -22,7 +22,7 @@
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_hostSyoriYoteibi" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0042.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_FOR" key="attr_Finfo_foreignAmount" editInfo="attr_Finfo_currencyId" speed="" chkItm="" />
+	<ListItem type="MONEY_FOR" key="attr_Finfo_foreignAmount" editInfo="attr_Finfo_payAccountCurrencyId" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0043.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="MONEY_FOR" key="attr_Finfo_currencyRate" editInfo="JPY" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0044.wav" editInfo="" speed="" chkItm="" />
