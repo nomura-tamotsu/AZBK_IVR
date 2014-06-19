@@ -6,7 +6,8 @@ import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESedeKeySpec;
 import javax.crypto.spec.IvParameterSpec;
 
-import com.sun.org.apache.xml.internal.security.utils.Base64;
+//import com.sun.org.apache.xml.internal.security.utils.Base64;
+import sun.misc.BASE64Decoder;
 
 public class Decrypt {
 	private String password  = "";
@@ -27,7 +28,9 @@ public class Decrypt {
 			ch.init(Cipher.DECRYPT_MODE, secKey, IV);
 			
 			//Base64エンコードされた文字列をデコード
-			byte[] encrypted = Base64.decode(base64str);
+//			byte[] encrypted = Base64.decode(base64str);
+			BASE64Decoder dec = new BASE64Decoder();
+			byte[] encrypted = dec.decodeBuffer(base64str);
 			
 			// 復号化
 			byte[] decrypted = ch.doFinal(encrypted);

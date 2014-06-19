@@ -6,7 +6,8 @@ import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESedeKeySpec;
 import javax.crypto.spec.IvParameterSpec;
 
-import com.sun.org.apache.xml.internal.security.utils.Base64;
+//import com.sun.org.apache.xml.internal.security.utils.Base64;
+import sun.misc.BASE64Encoder;
 
 public class Encrypt  {
 	private String password  = "";
@@ -48,7 +49,9 @@ public class Encrypt  {
 			
 			// base64エンコード
 //			String base64str = encode(c);
-			String base64str = Base64.encode(c);
+//			String base64str = Base64.encode(c);
+			BASE64Encoder enc = new BASE64Encoder();
+			String base64str = enc.encode(c);
 			
 			this.setPassword(base64str);
 			return 0;
@@ -137,5 +140,22 @@ public class Encrypt  {
 		String errMsg = enc.getErrorMsg();
 		
 		return;
+		
+//		for(int i=0; i<10000; i++){
+//			String orgCode = String.format("%1$04d", i);
+//			Encrypt enc = new Encrypt();
+//			enc.encrypt(orgCode);
+//			String password = enc.getPassword();
+//			System.out.println("暗号化：" + orgCode + "→" + password);
+//			Decrypt dec = new Decrypt();
+//			dec.decrypt(password);
+//			String password2 = dec.getPassword();
+//
+//			System.out.println("復号化：" + password + "→" + password2);
+//			
+//			System.out.println("============================");			
+//		}
+	
 	}
 }
+
