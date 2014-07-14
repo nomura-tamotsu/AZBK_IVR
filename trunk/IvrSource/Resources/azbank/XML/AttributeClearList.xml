@@ -32,6 +32,8 @@
 	<Item attrname="attr_Conf_VDN_Spcial" memo="転送スキル番号：臨時ダイヤル着信" />
 	<Item attrname="attr_Conf_VDN_Branches" memo="転送スキル番号：営業店受電着信" />
 	<Item attrname="attr_Conf_VDN_ErrTransfer" memo="転送スキル番号：エラー転送" />
+	<Item attrname="attr_Conf_Voice_BeforePauseTime" memo="合成編集情報：合成音声前ポーズ時間(ミリ秒)" />
+	<Item attrname="attr_Conf_Voice_AfterPauseTime" memo="合成編集情報：合成音声後ポーズ時間(ミリ秒)" />
 	<Item attrname="attr_TO_1st_2-1-0020" memo="入力タイムアウト秒数：サービス選択_1桁目" />
 	<Item attrname="attr_TO_Ind_2-1-0020" memo="入力タイムアウト秒数：サービス選択_入力間" />
 	<Item attrname="attr_TO_1st_3-1-0010" memo="入力タイムアウト秒数：リスク確認_1桁目" />
