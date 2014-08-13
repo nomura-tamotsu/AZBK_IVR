@@ -9,7 +9,7 @@
 	<ListItem type="NUM1" key="attr_Finfo_payAccountNo" editInfo="" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_payAccountKuchiNo" editInfo="" speed="" chkItm="attr_Finfo_payAccountKuchiNo" />
 	<ListItem type="WAV" key="ISI-0031.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="NUM1" key="attr_Finfo_azukariNo_1" editInfo="" speed="" chkItm="" />
+	<ListItem type="NUM2" key="attr_Finfo_azukariNo_1" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0025.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0032.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="MONEY_FOR" key="attr_Finfo_payGankin_1" editInfo="attr_Finfo_payAccountCurrencyId" speed="" chkItm="" />
