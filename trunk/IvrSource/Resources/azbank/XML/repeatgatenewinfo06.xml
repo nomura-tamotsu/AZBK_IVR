@@ -3,7 +3,8 @@
 <configuration>
 	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
-	<ListItem type="WAV" key="ISI-0047.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_payAccountCurrencyId" editInfo="TUK" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0039.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_payAccountNo" editInfo="" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_payAccountKuchiNo" editInfo="" speed="" chkItm="attr_Finfo_payAccountKuchiNo" />
