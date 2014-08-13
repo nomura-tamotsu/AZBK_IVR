@@ -14,7 +14,7 @@
 		<key name="EJB_WebServerDeterminationKey" value="1" memo="Webサーバ判別キー(1：本番、2：研修)" />
 		<key name="EJB_ApplicationId" value="IVRRequestSession" memo="EJBアプリケーションID" />
 		<key name="EJB_CenterId" value="0001" memo="センターID" />
-		<key name="EJB_ComputerName" value="isid19474" memo="コンピュータ名" />
+		<key name="EJB_ComputerName" value="fcctbscipw01" memo="コンピュータ名" />
 		<key name="EJB_UserId" value="IVR" memo="ユーザID" />
 		<key name="EJB_DatabaseConnectionInfo" value="DBAccess_TB" memo="データベース接続情報" />
 	</section>
@@ -42,7 +42,7 @@
 		<key name="VDN_ErrTransfer" value="7101" memo="転送スキル番号：エラー転送" />
 	</section>
 	<section id="VoiceEditInfo">
-		<key name="Voice_BeforePauseTime" value="300" memo="合成編集情報：合成音声前ポーズ時間(ミリ秒)" />
+		<key name="Voice_BeforePauseTime" value="400" memo="合成編集情報：合成音声前ポーズ時間(ミリ秒)" />
 		<key name="Voice_AfterPauseTime" value="500" memo="合成編集情報：合成音声後ポーズ時間(ミリ秒)" />
 	</section>
 </configuration>
