@@ -11,6 +11,6 @@
 	<ListItem type="DAY_YYYYMMDD" key="attr_FInfo_hostSyoriYoteibi" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0080.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_FInfo_henkouValue" editInfo="TKT-0001.wav|0000" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_FInfo_henkouValue" editInfo="TKT-0001.wav" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0081.wav" editInfo="" speed="" chkItm="" />
 </voiceList>
