@@ -74,10 +74,11 @@
 	<Item attrname="attr_RcvCTI_k_name_kn" memo="CTI：契約者氏名（カナ）" />
 	<Item attrname="attr_RcvCTI_k_op_id" memo="CTI：オペレータID" />
 	<Item attrname="attr_RcvCTI_k_sequence" memo="CTI：通番" />
-	<Item attrname="attr_RcvCTI_K_service_cd" memo="CTI：本人確認取引サービスコード" />
+	<Item attrname="attr_RcvCTI_k_service_cd" memo="CTI：本人確認取引サービスコード" />
 	<Item attrname="attr_RcvCTI_k_tb_service_cd" memo="CTI：意思確認取引サービスコード" />
 	<Item attrname="attr_RcvCTI_k_tb_session_id" memo="CTI：セッションID" />
 	<Item attrname="attr_RcvCTI_k_tenpo_no" memo="CTI：店番" />
+	<Item attrname="attr_RcvCTI_k_env" memo="CTI：環境" />
 	<Item attrname="attr_Keiyakuban" memo="契約者番号" />
 	<Item attrname="attr_Tenpo_no" memo="店番" />
 	<Item attrname="attr_Cif_no" memo="CIF番号" />
@@ -107,6 +108,7 @@
 	<Item attrname="attr_Finfo_hostSyoriYoteibi" memo="復唱内容情報_勘定処理予定日" />
 	<Item attrname="attr_Finfo_syotodokeKubun" memo="復唱内容情報_諸届け区分" />
 	<Item attrname="attr_Finfo_henkouValue" memo="復唱内容情報_変更後値" />
+	<Item attrname="attr_Finfo_boshuKubun" memo="復唱内容情報_募集区分" />
 	<Item attrname="attr_Finfo_payBrchNo" memo="復唱内容情報_出金店番" />
 	<Item attrname="attr_Finfo_payKamokuId" memo="復唱内容情報_出金科目ID" />
 	<Item attrname="attr_Finfo_payAccountNo" memo="復唱内容情報_出金口座番号" />
@@ -146,18 +148,21 @@
 	<Item attrname="attr_Finfo_yakuRiritsu_1" memo="復唱内容情報_約定利率1" />
 	<Item attrname="attr_Finfo_risokuKeisan_1" memo="復唱内容情報_利息計算1" />
 	<Item attrname="attr_Finfo_mankiToriatsukai_1" memo="復唱内容情報_満期日取扱1" />
+	<Item attrname="attr_Finfo_torihikiKingaku_1" memo="復唱内容情報_取引金額1" />
 	<Item attrname="attr_Finfo_syohinWavName_2" memo="復唱内容情報_商品名2（WAVファイル名）" />
 	<Item attrname="attr_Finfo_kikan_2" memo="復唱内容情報_期間2" />
 	<Item attrname="attr_Finfo_mankiBi_2" memo="復唱内容情報_満期日2" />
 	<Item attrname="attr_Finfo_yakuRiritsu_2" memo="復唱内容情報_約定利率2" />
 	<Item attrname="attr_Finfo_risokuKeisan_2" memo="復唱内容情報_利息計算2" />
 	<Item attrname="attr_Finfo_mankiToriatsukai_2" memo="復唱内容情報_満期日取扱2" />
+	<Item attrname="attr_Finfo_torihikiKingaku_2" memo="復唱内容情報_取引金額2" />
 	<Item attrname="attr_Finfo_syohinWavName_3" memo="復唱内容情報_商品名3（WAVファイル名）" />
 	<Item attrname="attr_Finfo_kikan_3" memo="復唱内容情報_期間3" />
 	<Item attrname="attr_Finfo_mankiBi_3" memo="復唱内容情報_満期日3" />
 	<Item attrname="attr_Finfo_yakuRiritsu_3" memo="復唱内容情報_約定利率3" />
 	<Item attrname="attr_Finfo_risokuKeisan_3" memo="復唱内容情報_利息計算3" />
 	<Item attrname="attr_Finfo_mankiToriatsukai_3" memo="復唱内容情報_満期日取扱3" />
+	<Item attrname="attr_Finfo_torihikiKingaku_3" memo="復唱内容情報_取引金額3" />
 	<Item attrname="attr_Finfo_azukariNo_1" memo="復唱内容情報_預り番号1" />
 	<Item attrname="attr_Finfo_payGankin_1" memo="復唱内容情報_払戻元金1" />
 	<Item attrname="attr_Finfo_azukariNo_2" memo="復唱内容情報_預り番号2" />
@@ -169,6 +174,7 @@
 	<Item attrname="attr_Finfo_payGankinTotal" memo="復唱内容情報_払戻元金合計" />
 	<Item attrname="attr_Finfo_kaiyakuTeMankiBi" memo="復唱内容情報_解約定期満期日" />
 	<Item attrname="attr_Finfo_zeibikigoRisoku" memo="復唱内容情報_税引後利息" />
+	<Item attrname="attr_Finfo_toshinToriatsukaiKubun" memo="復唱内容情報_投信取引区分" />
 	<Item attrname="attr_Finfo_mousikomiBi" memo="復唱内容情報_申込日" />
 	<Item attrname="attr_Finfo_yakuBi" memo="復唱内容情報_約定日" />
 	<Item attrname="attr_Finfo_ukewatashiBi" memo="復唱内容情報_受渡日" />
@@ -177,4 +183,5 @@
 	<Item attrname="attr_Finfo_uwanoseKinri" memo="復唱内容情報_上乗金利" />
 	<Item attrname="attr_Finfo_jougenKinri" memo="復唱内容情報_上限金利" />
 	<Item attrname="attr_Finfo_kikanKijituKubun" memo="復唱内容情報_期間期日区分" />
+	<Item attrname="attr_Finfo_risukuKubun" memo="復唱内容情報_リスク区分" />
 </configuration>
