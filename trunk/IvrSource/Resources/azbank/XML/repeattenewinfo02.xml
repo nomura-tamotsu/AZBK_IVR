@@ -25,7 +25,7 @@
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_mankiBi_1" editInfo="" speed="" chkItm="attr_Finfo_mankiBi_1" />
 	<ListItem type="WAV" key="ISI-0018.wav" editInfo="" speed="" chkItm="attr_Finfo_yakuRiritsu_1" />
 	<ListItem type="WAV" key="ISI-0095.wav" editInfo="" speed="" chkItm="attr_Finfo_yakuRiritsu_1" />
-	<ListItem type="NUM3" key="attr_Finfo_yakuRiritsu_1" editInfo="％" speed="" chkItm="attr_Finfo_yakuRiritsu_1" />
+	<ListItem type="NUM3" key="attr_Finfo_yakuRiritsu_1" editInfo="　％" speed="" chkItm="attr_Finfo_yakuRiritsu_1" />
 	<ListItem type="WAV" key="ISI-0020.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_risokuKeisan_1" editInfo="RKN" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="" />
@@ -43,7 +43,7 @@
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_mankiBi_2" editInfo="" speed="" chkItm="attr_Finfo_mankiBi_2" />
 	<ListItem type="WAV" key="ISI-0018.wav" editInfo="" speed="" chkItm="attr_Finfo_yakuRiritsu_2" />
 	<ListItem type="WAV" key="ISI-0095.wav" editInfo="" speed="" chkItm="attr_Finfo_yakuRiritsu_2" />
-	<ListItem type="NUM3" key="attr_Finfo_yakuRiritsu_2" editInfo="％" speed="" chkItm="attr_Finfo_yakuRiritsu_2" />
+	<ListItem type="NUM3" key="attr_Finfo_yakuRiritsu_2" editInfo="　％" speed="" chkItm="attr_Finfo_yakuRiritsu_2" />
 	<ListItem type="WAV" key="ISI-0020.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_risokuKeisan_2" editInfo="RKN" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="" />
@@ -61,7 +61,7 @@
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_mankiBi_3" editInfo="" speed="" chkItm="attr_Finfo_mankiBi_3" />
 	<ListItem type="WAV" key="ISI-0018.wav" editInfo="" speed="" chkItm="attr_Finfo_yakuRiritsu_3" />
 	<ListItem type="WAV" key="ISI-0095.wav" editInfo="" speed="" chkItm="attr_Finfo_yakuRiritsu_3" />
-	<ListItem type="NUM3" key="attr_Finfo_yakuRiritsu_3" editInfo="％" speed="" chkItm="attr_Finfo_yakuRiritsu_3" />
+	<ListItem type="NUM3" key="attr_Finfo_yakuRiritsu_3" editInfo="　％" speed="" chkItm="attr_Finfo_yakuRiritsu_3" />
 	<ListItem type="WAV" key="ISI-0020.wav" editInfo="" speed="" chkItm="attr_Finfo_syohinWavName_3" />
 	<ListItem type="CODE" key="attr_Finfo_risokuKeisan_3" editInfo="RKN" speed="" chkItm="attr_Finfo_syohinWavName_3" />
 	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="attr_Finfo_syohinWavName_3" />

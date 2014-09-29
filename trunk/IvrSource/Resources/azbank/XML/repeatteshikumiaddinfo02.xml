@@ -23,13 +23,13 @@
 	<ListItem type="DAY_YYYYMMDD" key="attr_FInfo_mankiBi_1" editInfo="" speed="" chkItm="attr_FInfo_mankiBi_1" />
 	<ListItem type="WAV" key="ISI-0089.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0095.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="NUM3" key="attr_FInfo_yakuRiritsu_1" editInfo="％" speed="" chkItm="" />
+	<ListItem type="NUM3" key="attr_FInfo_yakuRiritsu_1" editInfo="　％" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0090.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0095.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="NUM3" key="attr_FInfo_uwanoseKinri" editInfo="％" speed="" chkItm="" />
+	<ListItem type="NUM3" key="attr_FInfo_uwanoseKinri" editInfo="　％" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0091.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0095.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="NUM3" key="attr_FInfo_jougenKinri" editInfo="％" speed="" chkItm="" />
+	<ListItem type="NUM3" key="attr_FInfo_jougenKinri" editInfo="　％" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0092.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0020.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_FInfo_risokuKeisan_1" editInfo="RKN" speed="" chkItm="" />
