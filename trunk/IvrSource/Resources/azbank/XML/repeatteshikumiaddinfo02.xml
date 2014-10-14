@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <voiceList>
 	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_FInfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
@@ -36,6 +36,6 @@
 	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_FInfo_mankiToriatsukai_1" editInfo="MTH" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0022.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_FInfo_yenAmount" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_FInfo_yenAmount" editInfo="TKT-0001.wav" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 </voiceList>

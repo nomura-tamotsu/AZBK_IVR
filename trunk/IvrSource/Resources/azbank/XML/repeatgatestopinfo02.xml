@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- サービス別復唱内容 -->
 <configuration>
 	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
@@ -12,7 +12,7 @@
 	<ListItem type="NUM2" key="attr_Finfo_azukariNo_1" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0025.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0032.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_FOR" key="attr_Finfo_payGankin_1" editInfo="attr_Finfo_payAccountCurrencyId" speed="" chkItm="" />
+	<ListItem type="MONEY_FOR" key="attr_Finfo_payGankin_1" editInfo="attr_Finfo_payAccountCurrencyId" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0048.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0017.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_kaiyakuTeMankiBi" editInfo="" speed="" chkItm="" />
@@ -20,10 +20,10 @@
 	<ListItem type="WAV" key="ISI-0051.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_receiveBrchNo" editInfo="STN" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_receiveAccountCurrencyId" editInfo="TUK" speed="" chkItm="" />
-	<ListItem type="WAV" key="ISI-0049.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0039.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_receiveKamokuId" editInfo="KMK" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0052.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0050.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_kaiyakuTeMankiBi" editInfo="" speed="" chkItm="" />
+	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_yakuBi" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 </configuration>

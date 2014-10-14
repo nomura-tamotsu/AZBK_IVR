@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- サービス別復唱内容 -->
 <configuration>
 	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
@@ -19,11 +19,11 @@
 	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_hostSyoriYoteibi" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0008.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0009.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_charge" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_charge" editInfo="TKT-0001.wav" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0010.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_totalAmount" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_totalAmount" editInfo="TKT-0001.wav" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0011.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="VOICE_EDIT" key="attr_Finfo_requestPersonName" editInfo="" speed="" chkItm="" />

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- サービス別復唱内容 -->
 <configuration>
 	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
@@ -31,7 +31,7 @@
 	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_mankiToriatsukai_1" editInfo="MTH" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0022.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_torihikiKingaku_1" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_torihikiKingaku_1" editInfo="TKT-0001.wav" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="VOICE_CONST" key="2本目" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0023.wav" editInfo="" speed="" chkItm="" />
@@ -49,7 +49,7 @@
 	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_mankiToriatsukai_2" editInfo="MTH" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0022.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_torihikiKingaku_2" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_torihikiKingaku_2" editInfo="TKT-0001.wav" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="VOICE_CONST" key="3本目" editInfo="" speed="" chkItm="attr_Finfo_syohinWavName_3" />
 	<ListItem type="WAV" key="ISI-0023.wav" editInfo="" speed="" chkItm="attr_Finfo_syohinWavName_3" />
@@ -67,9 +67,9 @@
 	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="attr_Finfo_syohinWavName_3" />
 	<ListItem type="CODE" key="attr_Finfo_mankiToriatsukai_3" editInfo="MTH" speed="" chkItm="attr_Finfo_syohinWavName_3" />
 	<ListItem type="WAV" key="ISI-0022.wav" editInfo="" speed="" chkItm="attr_Finfo_syohinWavName_3" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_torihikiKingaku_3" editInfo="TKT-0001.wav" speed="" chkItm="attr_Finfo_syohinWavName_3" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_torihikiKingaku_3" editInfo="TKT-0001.wav" speed="80" chkItm="attr_Finfo_syohinWavName_3" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="attr_Finfo_syohinWavName_3" />
 	<ListItem type="WAV" key="ISI-0010.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 </configuration>

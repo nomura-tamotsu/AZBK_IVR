@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- サービス別復唱内容 -->
 <configuration>
 	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
@@ -31,10 +31,10 @@
 	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_mankiToriatsukai_1" editInfo="MTH" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0045.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="" chkItm="" />
+	<ListItem type="MONEY_YEN" key="attr_Finfo_yenAmount" editInfo="TKT-0001.wav" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0040.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_FOR" key="attr_Finfo_currencyRate" editInfo="JPY" speed="" chkItm="" />
+	<ListItem type="MONEY_FOR" key="attr_Finfo_currencyRate" editInfo="JPY" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0041.wav" editInfo="" speed="" chkItm="" />
-	<ListItem type="MONEY_FOR" key="attr_Finfo_foreignAmount" editInfo="attr_Finfo_currencyId" speed="" chkItm="" />
+	<ListItem type="MONEY_FOR" key="attr_Finfo_foreignAmount" editInfo="attr_Finfo_currencyId" speed="80" chkItm="" />
 	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
 </configuration>
