@@ -34,6 +34,12 @@
 	<Item attrname="attr_Conf_VDN_ErrTransfer" memo="転送スキル番号：エラー転送" />
 	<Item attrname="attr_Conf_Voice_BeforePauseTime" memo="合成編集情報：合成音声前ポーズ時間(ミリ秒)" />
 	<Item attrname="attr_Conf_Voice_AfterPauseTime" memo="合成編集情報：合成音声後ポーズ時間(ミリ秒)" />
+	<Item attrname="attr_Conf_TTS_RetryCnt" memo="TSSライセンス数チェック：リトライ回数" />
+	<Item attrname="attr_Conf_TTS_RetryInterval" memo="TSSライセンス数チェック：リトライ時インターバル" />
+	<Item attrname="attr_Conf_TTS_DLLCallTimeOut" memo="TSSライセンス数チェック：DLL呼出しタイムアウト値" />
+	<Item attrname="attr_Conf_TSS_DLLName" memo="TSSライセンス数チェック：DLL名称" />
+	<Item attrname="attr_Conf_TSS_DLLFanction_Request" memo="TSSライセンス数チェック：DLLセッション確保関数名" />
+	<Item attrname="attr_Conf_TSS_DLLFanction_Release" memo="TSSライセンス数チェック：DLLセッション解放関数名" />
 	<Item attrname="attr_TO_1st_2-1-0020" memo="入力タイムアウト秒数：サービス選択_1桁目" />
 	<Item attrname="attr_TO_Ind_2-1-0020" memo="入力タイムアウト秒数：サービス選択_入力間" />
 	<Item attrname="attr_TO_1st_3-1-0010" memo="入力タイムアウト秒数：リスク確認_1桁目" />
@@ -102,6 +108,7 @@
 	<Item attrname="attr_Uketsuke_date" memo="受付日" />
 	<Item attrname="attr_Uketsuke_no" memo="受付番号" />
 	<Item attrname="attr_EjbWebServerNo" memo="APサーバ接続番号" />
+	<Item attrname="attr_TransferNonGiudance" memo="転送ガイダンス無し" />
 	<Item attrname="attr_Finfo_serviceCd" memo="復唱内容情報_サービス種別ID" />
 	<Item attrname="attr_Finfo_serviceEdaCd" memo="復唱内容情報_サービス種別枝番" />
 	<Item attrname="attr_Finfo_yoyakuKubun" memo="復唱内容情報_予約区分" />

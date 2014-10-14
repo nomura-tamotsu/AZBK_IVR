@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- 意思確認復唱サービスリスト -->
 <configuration>
 	<ServiceCode id="1200">
@@ -33,8 +33,8 @@
 	</ServiceCode>
 	<ServiceCode id="1950">
 		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設（通常）※USドル定期" xmlFileName="repeatgatenewinfo01.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="0" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
-		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設あり（募集型）　※レアル定期" xmlFileName="repeatgatenewinfo02.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriBrchNo" Ptn4_Val="" Ptn4_Ope="!=" Ptn4_Ext="" />
-		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設なし（募集型）　※レアル定期" xmlFileName="repeatgatenewinfo03.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriBrchNo" Ptn4_Val="" Ptn4_Ope="=" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設あり（募集型）　※レアル定期" xmlFileName="repeatgatenewinfo02.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriAccountNo" Ptn4_Val="" Ptn4_Ope="=" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設なし（募集型）　※レアル定期" xmlFileName="repeatgatenewinfo03.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriAccountNo" Ptn4_Val="" Ptn4_Ope="!=" Ptn4_Ext="" />
 		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設あり（特約募集型） ※カレンシーファースト" xmlFileName="repeatgatenewinfo04.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="!=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriAccountNo" Ptn4_Val="" Ptn4_Ope="=" Ptn4_Ext="" />
 		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設なし（特約募集型） ※カレンシーファースト" xmlFileName="repeatgatenewinfo05.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="!=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriAccountNo" Ptn4_Val="" Ptn4_Ope="!=" Ptn4_Ext="" />
 		<Item memo="外貨定期口座開設：外貨普通→外貨定期口座開設（通常）　※USドル定期" xmlFileName="repeatgatenewinfo06.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="0" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
