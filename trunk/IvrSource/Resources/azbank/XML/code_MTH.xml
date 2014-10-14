@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- 満期取扱-定義ファイル -->
 <configuration>
 	<item Code="1" wavfile="MTH-0001.wav" memo="満期受取" />

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- 利息計算-定義ファイル -->
 <configuration>
 	<item Code="0" wavfile="RKN-0001.wav" memo="単利" />

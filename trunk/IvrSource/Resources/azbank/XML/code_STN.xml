@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- 支店名-定義ファイル -->
 <configuration>
 	<item Code="111" wavfile="STN-0001.wav" memo="本店" />

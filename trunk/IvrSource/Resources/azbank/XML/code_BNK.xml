@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- 銀行名-定義ファイル -->
 <configuration>
 	<item Code="0398" wavfile="BNK-0001.wav" memo="あおぞら銀行" />

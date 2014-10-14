@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!-- 科目名-定義ファイル -->
 <configuration>
 	<item Code="2050" wavfile="KMK-0001.wav" memo="普通預金口座" />
