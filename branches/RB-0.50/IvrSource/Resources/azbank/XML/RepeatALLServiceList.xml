@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 意思確認復唱サービスリスト -->
+<configuration>
+	<ServiceCode id="1200">
+		<Item memo="振替" xmlFileName="repeatfkaeinfo01.xml" Ptn1_Attr="" Ptn1_Val="" Ptn1_Ope="" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1100">
+		<Item memo="振込：自行・手数料有" xmlFileName="repeatfkomiinfo01.xml" Ptn1_Attr="attr_FInfo_receiveBankKana" Ptn1_Val="ｱｵｿﾞﾗ" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_charge" Ptn2_Val="0" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="振込：自行・手数料無" xmlFileName="repeatfkomiinfo02.xml" Ptn1_Attr="attr_Finfo_receiveBankKana" Ptn1_Val="ｱｵｿﾞﾗ" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_charge" Ptn2_Val="0" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="振込：他行・手数料有" xmlFileName="repeatfkomiinfo03.xml" Ptn1_Attr="attr_Finfo_receiveBankKana" Ptn1_Val="ｱｵｿﾞﾗ" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_charge" Ptn2_Val="0" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="振込：他行・手数料無" xmlFileName="repeatfkomiinfo04.xml" Ptn1_Attr="attr_FInfo_receiveBankKana" Ptn1_Val="ｱｵｿﾞﾗ" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_charge" Ptn2_Val="0" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1300">
+		<Item memo="定期口座開設：一枝" xmlFileName="repeattenewinfo01.xml" Ptn1_Attr="attr_FInfo_syohinWavName_2" Ptn1_Val="" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="定期口座開設：複数枝" xmlFileName="repeattenewinfo02.xml" Ptn1_Attr="attr_FInfo_syohinWavName_2" Ptn1_Val="" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1401">
+		<Item memo="定期入金" xmlFileName="repeatteaddinfo01.xml" Ptn1_Attr="" Ptn1_Val="" Ptn1_Ope="" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1404">
+		<Item memo="定期期限前解約：一枝" xmlFileName="repeattecancinfo01.xml" Ptn1_Attr="attr_FInfo_azukariNo_2" Ptn1_Val="" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="定期期限前解約：複数枝" xmlFileName="repeattecancinfo02.xml" Ptn1_Attr="attr_FInfo_azukariNo_2" Ptn1_Val="" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1601">
+		<Item memo="定期満期予約：元利金→定期" xmlFileName="repeattemankiyoyakuinfo01.xml" Ptn1_Attr="attr_FInfo_procKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_receiveKubun" Ptn2_Val="1" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="定期満期予約：元金→定期" xmlFileName="repeattemankiyoyakuinfo02.xml" Ptn1_Attr="attr_FInfo_procKubun" Ptn1_Val="3" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_receiveKubun" Ptn2_Val="1" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="定期満期予約：元利金→普通" xmlFileName="repeattemankiyoyakuinfo03.xml" Ptn1_Attr="attr_FInfo_procKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_receiveKubun" Ptn2_Val="3" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1900">
+		<Item memo="外貨振替：円貨普通→外貨普通" xmlFileName="repeatgafkaeinfo01.xml" Ptn1_Attr="attr_FInfo_payAccountCurrencyId" Ptn1_Val="JPY" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_receiveAccountNo" Ptn2_Val="" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨振替：外貨普通→円貨普通" xmlFileName="repeatgafkaeinfo02.xml" Ptn1_Attr="attr_FInfo_payAccountCurrencyId" Ptn1_Val="JPY" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨振替：円貨普通→外貨普通口座開設" xmlFileName="repeatgafkaeinfo03.xml" Ptn1_Attr="attr_FInfo_payAccountCurrencyId" Ptn1_Val="JPY" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_receiveAccountNo" Ptn2_Val="" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1950">
+		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設（通常）※USドル定期" xmlFileName="repeatgatenewinfo01.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="0" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設あり（募集型）　※レアル定期" xmlFileName="repeatgatenewinfo02.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriAccountNo" Ptn4_Val="" Ptn4_Ope="=" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設なし（募集型）　※レアル定期" xmlFileName="repeatgatenewinfo03.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriAccountNo" Ptn4_Val="" Ptn4_Ope="!=" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設あり（特約募集型） ※カレンシーファースト" xmlFileName="repeatgatenewinfo04.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="!=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriAccountNo" Ptn4_Val="" Ptn4_Ope="=" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：円貨普通→外貨定期口座開設・外貨普通口座開設なし（特約募集型） ※カレンシーファースト" xmlFileName="repeatgatenewinfo05.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="!=" Ptn3_Ext="" Ptn4_Attr="attr_FInfo_uketoriAccountNo" Ptn4_Val="" Ptn4_Ope="!=" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：外貨普通→外貨定期口座開設（通常）　※USドル定期" xmlFileName="repeatgatenewinfo06.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="0" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：外貨普通→外貨定期口座開設（募集型）　※レアル定期" xmlFileName="repeatgatenewinfo07.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期口座開設：外貨普通→外貨定期口座開設（特約募集型） ※カレンシーファースト" xmlFileName="repeatgatenewinfo08.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="!=" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1960">
+		<Item memo="外貨定期入金：円貨普通→外貨定期（通常）　※USドル定期" xmlFileName="repeatgateaddinfo01.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="0" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期入金：円貨普通→外貨定期（募集型）　※レアル定期" xmlFileName="repeatgateaddinfo02.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期入金：円貨普通→外貨定期（特約募集型） ※カレンシーファースト" xmlFileName="repeatgateaddinfo03.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="!=" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期入金：外貨普通→外貨定期（通常）　※USドル定期" xmlFileName="repeatgateaddinfo04.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="0" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期入金：外貨普通→外貨定期（募集型）　※レアル定期" xmlFileName="repeatgateaddinfo05.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="=" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期入金：外貨普通→外貨定期（特約募集型） ※カレンシーファースト" xmlFileName="repeatgateaddinfo06.xml" Ptn1_Attr="attr_FInfo_boshuKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_payAccountCurrencyId" Ptn2_Val="JPY" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="attr_FInfo_daihyoBrchNo" Ptn3_Val="" Ptn3_Ope="!=" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1980">
+		<Item memo="外貨定期自動継続停止：外貨定期→外貨普通" xmlFileName="repeatgatestopinfo01.xml" Ptn1_Attr="attr_FInfo_receiveAccountNo" Ptn1_Val="" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期自動継続停止：外貨定期→外貨普通口座開設" xmlFileName="repeatgatestopinfo02.xml" Ptn1_Attr="attr_FInfo_receiveAccountNo" Ptn1_Val="" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1970">
+		<Item memo="外貨定期解約：外貨定期→円貨普通" xmlFileName="repeatgatecancinfo01.xml" Ptn1_Attr="attr_FInfo_currencyRate" Ptn1_Val="" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期解約：外貨定期→外貨普通" xmlFileName="repeatgatecancinfo02.xml" Ptn1_Attr="attr_FInfo_currencyRate" Ptn1_Val="" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_receiveAccountNo" Ptn2_Val="" Ptn2_Ope="!=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="外貨定期解約：外貨定期→外貨普通口座開設" xmlFileName="repeatgatecancinfo03.xml" Ptn1_Attr="attr_FInfo_currencyRate" Ptn1_Val="" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_receiveAccountNo" Ptn2_Val="" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1800">
+		<Item memo="投信募集・購入：購入・金額指定" xmlFileName="repeattobuyinfo01.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="1" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="投信募集・購入：購入・口数指定" xmlFileName="repeattobuyinfo02.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="2" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="投信募集・購入：募集・金額指定" xmlFileName="repeattobuyinfo03.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="0" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="1" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="投信募集・購入：募集・口数指定" xmlFileName="repeattobuyinfo04.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="0" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="2" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1801">
+		<Item memo="投信換金：解約・一部（口数）" xmlFileName="repeattosellinfo01.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="2" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="2" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="投信換金：解約・一部（金額）" xmlFileName="repeattosellinfo02.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="2" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="1" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="投信換金：解約・全部" xmlFileName="repeattosellinfo03.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="2" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="3" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="投信換金：買取・一部（口数）" xmlFileName="repeattosellinfo04.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="3" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="2" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="投信換金：買取・一部（金額）" xmlFileName="repeattosellinfo05.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="3" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="1" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="投信換金：買取・全部" xmlFileName="repeattosellinfo06.xml" Ptn1_Attr="attr_FInfo_toshinToriatsukaiKubun" Ptn1_Val="3" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="attr_FInfo_siteiKubun" Ptn2_Val="3" Ptn2_Ope="=" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1302">
+		<Item memo="仕組預金口座開設：固定型※エクセレントファースト" xmlFileName="repeatteshikuminewinfo01.xml" Ptn1_Attr="attr_FInfo_uwanoseKinri" Ptn1_Val="" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="仕組預金口座開設：変動型※アドバンテージファースト" xmlFileName="repeatteshikuminewinfo02.xml" Ptn1_Attr="attr_FInfo_uwanoseKinri" Ptn1_Val="" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="1405">
+		<Item memo="仕組預金入金：固定型※エクセレントファースト" xmlFileName="repeatteshikumiaddinfo01.xml" Ptn1_Attr="attr_FInfo_uwanoseKinri" Ptn1_Val="" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="仕組預金入金：変動型※アドバンテージファースト" xmlFileName="repeatteshikumiaddinfo02.xml" Ptn1_Attr="attr_FInfo_uwanoseKinri" Ptn1_Val="" Ptn1_Ope="!=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="2000">
+		<Item memo="住所変更：住所のみ・両方" xmlFileName="repeatjyusyoinfo01.xml" Ptn1_Attr="attr_FInfo_syotodokeKubun" Ptn1_Val="1" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+		<Item memo="住所変更：電話番号のみ" xmlFileName="repeatjyusyoinfo02.xml" Ptn1_Attr="attr_FInfo_syotodokeKubun" Ptn1_Val="2" Ptn1_Ope="=" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="2100">
+		<Item memo="キャッシュカード限度額変更" xmlFileName="repeatcdgendogakuinfo01.xml" Ptn1_Attr="" Ptn1_Val="" Ptn1_Ope="" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="31**">
+		<Item memo="汎用申込" xmlFileName="repeathanyouinfo01.xml" Ptn1_Attr="" Ptn1_Val="" Ptn1_Ope="" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+	<ServiceCode id="2200">
+		<Item memo="ATM暗証変更" xmlFileName="repeatcdpwdchginfo01.xml" Ptn1_Attr="" Ptn1_Val="" Ptn1_Ope="" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
+</configuration>

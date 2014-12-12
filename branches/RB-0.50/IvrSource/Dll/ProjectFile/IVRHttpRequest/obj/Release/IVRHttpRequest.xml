@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IVRHttpRequest
+</name>
+</assembly>
+<members>
+<member name="M:IVRHttpRequest.IVRHttpRequest.#ctor">
+	<summary>
+ コンストラクタ
+ </summary>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.ExecEJB(System.String,System.String,System.String)">
+	<summary>
+ EJB呼出
+ </summary>
+	<param name="inEJBInfo1"></param>
+	<param name="inEJBInfo2"></param>
+	<param name="inApServerNo">1桁目：環境コード、2桁目：APサーバ番号</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.GetWebResponse(System.String,System.Byte[],System.Int32)">
+	<summary>
+ HTTPリクエスト＆レスポンス取得
+ </summary>
+	<param name="inReqURL"></param>
+	<param name="inPostData"></param>
+	<param name="inTimeOut"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.MakePostData_ExecEJB(System.String,System.String)">
+	<summary>
+ ポスト・データの作成
+ </summary>
+	<param name="inEJBInfo1"></param>
+	<param name="inEJBInfo2"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.myCertificateValidation(System.Object,System.Security.Cryptography.X509Certificates.X509Certificate,System.Security.Cryptography.X509Certificates.X509Chain,System.Net.Security.SslPolicyErrors)">
+	<summary>
+ サーバからの証明書が認証されていないのを回避（HTTPSの場合のみ有効）
+ </summary>
+	<param name="sender"></param>
+	<param name="certificate"></param>
+	<param name="chain"></param>
+	<param name="sslPolicyErrors"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.RetryCheck(System.Net.WebExceptionStatus)">
+	<summary>
+ リトライチェック
+ </summary>
+	<param name="WebExStatus"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.SendPing(System.String,System.String@)">
+	<summary>
+ 指定されたホストに対してPing 要求を実行します。
+ </summary>
+	<param name="hostName">Ping要求を実行するホスト名（IPアドレスも可）</param>
+	<returns>Pingが実行できれば Trueを返し、そうでなければ Falseを返します。</returns>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.EditRequestData(System.String,System.String)">
+	<summary>
+ 要求データを「|」区切りから、固定長文字列へ変換する
+ </summary>
+	<param name="xmlPath_">要求データ情報XML</param>
+	<param name="inEJBInfo2_">変換前のEJB要求データ</param>
+	<returns>変換後EJB要求データ</returns>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.EditResponseData(System.String,System.String)">
+	<summary>
+応答データを、応答データ情報XMLに従い、項目毎に「|」区切りに編集する
+ </summary>
+	<param name="xmlPath_">応答データ情報XML</param>
+	<param name="ejbResponse_">変換前のEJB応答データ</param>
+	<returns>変換後EJB応答データ</returns>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.GetWebResponseDebug(System.String)">
+	<summary>
+ デバック用応答データ作成
+ </summary>
+	<param name="xmlPath_"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:IVRHttpRequest.IVRHttpRequest.DebugLogWrite(System.String,System.String)">
+	<summary>
+ デバックログ出力
+ </summary>
+	<param name="envCodeIvr_">環境コード</param>
+	<param name="messageStr_">出力メッセージ</param>
+	<remarks></remarks>
+</member><member name="P:IVRHttpRequest.My.Resources.Resources.ResourceManager">
+	<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member><member name="P:IVRHttpRequest.My.Resources.Resources.Culture">
+	<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member><member name="T:IVRHttpRequest.My.Resources.Resources">
+	<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member><member name="M:IVRHttpRequest.StringUtil.SubstringByte(System.String,System.Int32,System.Int32)">
+	<summary>
+ インスタンスから部分文字列を取得します。検索は、指定した文字位置から開始されます。
+ </summary>
+	<param name="target">対象となる<see cref="T:System.String"/></param>
+	<param name="startIndex">このインスタンス内の部分文字列の開始文字位置。</param>
+	<param name="length">取得したい文字列の長さ</param>
+	<returns></returns>
+	<exception cref="T:System.ArgumentOutOfRangeException">
+ startIndex と length を足した数が、このインスタンス内にない位置を示しています。
+ または startIndex または length が 0 未満です。
+ </exception>
+</member><member name="M:IVRHttpRequest.StringUtil.PadByteRight(System.String,System.Int32)">
+	<summary>
+ このインスタンス内の文字を左寄せし、指定した文字列のバイト数になるまで、右側に空白を埋め込みます。
+ </summary>
+	<param name="target">対象となる<see cref="T:System.String"/></param>
+	<param name="totalWidth">結果として生成される文字列のバイト数</param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
