@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ejbResponse>
+	<ResItem type="string" length="3" value="000" name="リターンコード" />
+	<ResItem type="string" length="15" value="connectionName" name="DB接続情報" />
+	<ResItem type="string" length="19" value="contactid1234567890" name="コンタクトID" />
+	<ResItem type="string" length="14" value="20131001152637" name="コンタクトID取得日時" />
+</ejbResponse>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 利息計算-定義ファイル -->
+<configuration>
+	<item Code="0" wavfile="RKN-0001.wav" memo="単利" />
+	<item Code="2" wavfile="RKN-0002.wav" memo="複利" />
+	<item Code="1" wavfile="RKN-0003.wav" memo="半年複利" />
+</configuration>

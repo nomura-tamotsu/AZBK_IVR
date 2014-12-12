@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- EJB応答定義ファイル -->
+<ejbResponse>
+	<ResItem type="string" length="3" value="returnCode" name="リターンコード" />
+	<ResItem type="string" length="1" value="yoyakuKubun" name="予約区分" />
+	<ResItem type="string" length="8" value="syoriYoteibi" name="処理予定日" />
+	<ResItem type="string" length="20" value="hyojiMoji" name="表示文字" />
+	<ResItem type="string" length="14" value="serviceDateTime" name="EJBサービス日時" />
+</ejbResponse>

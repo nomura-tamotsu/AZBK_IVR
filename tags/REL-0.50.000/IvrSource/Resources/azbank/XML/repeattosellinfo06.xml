@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<voiceList>
+	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0069.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_receiveBrchNo" editInfo="STN" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_receiveKamokuId" editInfo="KMK" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_Finfo_receiveAccountNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_Finfo_receiveAccountKuchiNo" editInfo="" speed="" chkItm="attr_Finfo_receiveAccountKuchiNo" />
+	<ListItem type="WAV" key="ISI-0014.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0028.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_Finfo_payAccountNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0004.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_yoyakuKubun" editInfo="TAK" speed="" chkItm="" />
+	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_hostSyoriYoteibi" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0070.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV_ATTR" key="attr_Finfo_syohinWavName_1" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0055.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_azukariKubun" editInfo="AZK" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0056.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_mousikomiBi" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0057.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_yakuBi" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0067.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_ukewatashiBi" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0071.wav" editInfo="" speed="" chkItm="" />
+</voiceList>

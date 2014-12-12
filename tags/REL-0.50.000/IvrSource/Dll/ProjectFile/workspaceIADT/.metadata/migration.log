@@ -1,0 +1,4 @@
+
+*** マイグレーション開始 - 2014/04/04 13:13:32 JST
+First migrator: com.ibm.ws.ast.st.migration.internal.migrator.ServerToolsMetadataMigratior
+ワークスペース・メタデータをマイグレーション中

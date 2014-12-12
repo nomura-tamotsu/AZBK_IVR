@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?pde version="3.6"?><target name="WebSphere Application Server v8.5 スタブ">
+<locations>
+<location path="D:/Program Files/IBM/SDP/runtimes/base_v85_stub/dev" type="Directory"/>
+<location path="D:/Program Files/IBM/SDP/runtimes/base_v85_stub/dev/JavaEE" type="Directory"/>
+<location path="D:/Program Files/IBM/SDP/runtimes/base_v85_stub/dev/sip" type="Directory"/>
+<location path="D:/Program Files/IBM/SDP/runtimes/base_v85_stub/dev/osgi/4.2" type="Directory"/>
+<location path="D:/a_yasu/09_AZ/101_koukai/03_CD/4.Jar3DES/workspaceIADT/.metadata/.plugins/com.ibm.etools.aries.core/system/" type="Directory"/>
+</locations>
+</target>

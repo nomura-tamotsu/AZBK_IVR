@@ -1,0 +1,16 @@
+#Mon Dec 09 20:30:32 JST 2013
+org.eclipse.datatools.connectivity.db.derby102.genericDriverTemplate=true
+org.eclipse.datatools.enablement.ibm.db2.iseries.toolbox.driverTemplate=true
+com.ibm.datatools.cloudscape.driverTemplate=true
+org.eclipse.datatools.enablement.ibm.informix.9_2.driverTemplate=true
+com.ibm.datatools.informix.11_0.driverTemplate=true
+org.eclipse.datatools.enablement.ibm.informix.9_3.driverTemplate=true
+org.eclipse.datatools.connectivity.db.derby102.clientDriver=true
+org.eclipse.datatools.connectivity.db.derby.genericDriverTemplate=true
+org.eclipse.datatools.enablement.ibm.informix.9_4.driverTemplate=true
+com.ibm.datatools.informix.11_0.ibm.driverTemplate=true
+org.eclipse.datatools.connectivity.db.derby101.genericDriverTemplate=true
+org.eclipse.datatools.enablement.ibm.informix.10_0.driverTemplate=true
+eclipse.preferences.version=1
+org.eclipse.datatools.enablement.hsqldb.1_8.driver=true
+org.eclipse.datatools.connectivity.db.derby101.clientDriver=true

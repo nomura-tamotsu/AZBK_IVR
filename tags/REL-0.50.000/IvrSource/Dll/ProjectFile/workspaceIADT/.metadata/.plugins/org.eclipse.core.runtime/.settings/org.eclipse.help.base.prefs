@@ -1,0 +1,8 @@
+#Fri Apr 04 13:13:31 JST 2014
+remoteHelpPath=/infocenter/radhelp/v7r5,/help,/infocenter/radhelp/v8r5
+remoteHelpPreferred=true
+eclipse.preferences.version=1
+remoteHelpPort=80,63650,80
+remoteHelpName=RAD Infocenter,Local,IBM Assembly and Deploy Tools for WebSphere Administrators
+remoteHelpICEnabled=true,false,true
+remoteHelpHost=publib.boulder.ibm.com,127.0.0.1,publib.boulder.ibm.com

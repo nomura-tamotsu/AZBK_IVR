@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 略語展開ファイル -->
+<configuration>
+	<Item rKey="ｶ" TData="ｶﾌﾞｼｷｶﾞｲｼｬ" memo="株式会社" />
+	<Item rKey="ﾕ" TData="ﾕｰｹﾞﾝｶﾞｲｼｬ" memo="有限会社" />
+	<Item rKey="ﾒ" TData="ｺﾞｰﾒｰｶﾞｲｼｬ" memo="合名会社" />
+	<Item rKey="ｼ" TData="ｺﾞｰｼｶﾞｲｼｬ" memo="合資会社" />
+	<Item rKey="ﾄﾞ" TData="ｺﾞｰﾄﾞｰｶﾞｲｼｬ" memo="合同会社" />
+	<Item rKey="ｿ" TData="ｿｰｺﾞｶﾞｲｼｬ" memo="相互会社" />
+	<Item rKey="ｲ" TData="ｲﾘｮｰﾎｰｼﾞﾝ" memo="医療法人" />
+	<Item rKey="ｻﾞｲ" TData="ｻﾞｲﾀﾞﾝﾎｰｼﾞﾝ" memo="財団法人" />
+	<Item rKey="ｼﾔ" TData="ｼｬﾀﾞﾝﾎｰｼﾞﾝ" memo="社団法人（大文字）" />
+	<Item rKey="ｼｬ" TData="ｼｬﾀﾞﾝﾎｰｼﾞﾝ" memo="社団法人" />
+	<Item rKey="ｼﾕｳ" TData="ｼｭｰｷｮｰﾎｰｼﾞﾝ" memo="宗教法人（大文字）" />
+	<Item rKey="ｼｭｳ" TData="ｼｭｰｷｮｰﾎｰｼﾞﾝ" memo="宗教法人" />
+	<Item rKey="ｶﾞｸ" TData="ｶﾞｯｺｰﾎｰｼﾞﾝ" memo="学校法人" />
+	<Item rKey="ﾌｸ" TData="ｼｬｶｲﾌｸｼﾎｰｼﾞﾝ" memo="社会福祉法人" />
+	<Item rKey="ﾎｺﾞ" TData="ｺｰｾｲﾎｺﾞﾎｰｼﾞﾝ" memo="更生保護法人" />
+	<Item rKey="ｴｲ" TData="ｴｰｷﾞｮｰｼｮ" memo="営業所" />
+	<Item rKey="ｼﾕﾂ" TData="ｼｭｯﾁｮｰｼﾞｮ" memo="出張所（大文字）" />
+	<Item rKey="ｼｭﾂ" TData="ｼｭｯﾁｮｰｼﾞｮ" memo="出張所" />
+</configuration>

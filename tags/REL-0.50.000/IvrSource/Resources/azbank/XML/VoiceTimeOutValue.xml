@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+	<Item attrname="2-1-0020" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：サービス選択" />
+	<Item attrname="3-1-0010" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：リスク確認" />
+	<Item attrname="3-1-0020" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：意思確認" />
+	<Item attrname="4-1-0010" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：口座番号確認" />
+	<Item attrname="4-1-0020" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：現CD暗証" />
+	<Item attrname="4-1-0030" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：新CD暗証１" />
+	<Item attrname="4-1-0040" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：新CD暗証２" />
+	<Item attrname="A-1-0010" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：口座番号" />
+	<Item attrname="A-1-0020" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：TB暗証" />
+</configuration>

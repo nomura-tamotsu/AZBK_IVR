@@ -1,0 +1,2 @@
+サービス：Interaction Centerを停止させてから、DLLレジストを行う
+
