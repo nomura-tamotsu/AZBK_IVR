@@ -63,13 +63,13 @@
 	<ResItem type="string" length="4" value="risokuKeisan_3" name="利息計算3" />
 	<ResItem type="string" length="4" value="mankiToriatsukai_3" name="満期日取扱3" />
 	<ResItem type="string" length="15" value="torihikiKingaku_3" name="取引金額3" />
-	<ResItem type="string" length="5" value="azukariNo_1" name="預り番号1" />
+	<ResItem type="string" length="7" value="azukariNo_1" name="預り番号1" />
 	<ResItem type="string" length="15" value="payGankin_1" name="払戻元金1" />
-	<ResItem type="string" length="5" value="azukariNo_2" name="預り番号2" />
+	<ResItem type="string" length="7" value="azukariNo_2" name="預り番号2" />
 	<ResItem type="string" length="15" value="payGankin_2" name="払戻元金2" />
-	<ResItem type="string" length="5" value="azukariNo_3" name="預り番号3" />
+	<ResItem type="string" length="7" value="azukariNo_3" name="預り番号3" />
 	<ResItem type="string" length="15" value="payGankin_3" name="払戻元金3" />
-	<ResItem type="string" length="5" value="azukariNo_4" name="預り番号4" />
+	<ResItem type="string" length="7" value="azukariNo_4" name="預り番号4" />
 	<ResItem type="string" length="15" value="payGankin_4" name="払戻元金4" />
 	<ResItem type="string" length="15" value="payGankinTotal" name="払戻元金合計" />
 	<ResItem type="string" length="8" value="kaiyakuTeMankiBi" name="解約定期満期日" />
@@ -84,4 +84,7 @@
 	<ResItem type="string" length="13" value="jougenKinri" name="上限金利" />
 	<ResItem type="string" length="1" value="kikanKijituKubun" name="期間期日区分" />
 	<ResItem type="string" length="1" value="risukuKubun" name="リスク区分" />
+	<ResItem type="string" length="18" value="mankiBi_Wa_1" name="満期日1（和暦）" />
+	<ResItem type="string" length="18" value="mankiBi_Wa_2" name="満期日2（和暦）" />
+	<ResItem type="string" length="18" value="mankiBi_Wa_3" name="満期日3（和暦）" />
 </ejbResponse>

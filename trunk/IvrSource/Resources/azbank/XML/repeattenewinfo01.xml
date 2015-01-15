@@ -19,8 +19,8 @@
 	<ListItem type="WAV_ATTR" key="attr_Finfo_syohinWavName_1" editInfo="" speed="" chkItm="" />
 	<ListItem type="WAV" key="ISI-0016.wav" editInfo="" speed="" chkItm="attr_Finfo_kikan_1" />
 	<ListItem type="PERIOD_1" key="attr_Finfo_kikan_1" editInfo="" speed="" chkItm="attr_Finfo_kikan_1" />
-	<ListItem type="WAV" key="ISI-0017.wav" editInfo="" speed="" chkItm="attr_Finfo_mankiBi_1" />
-	<ListItem type="DAY_YYYYMMDD" key="attr_Finfo_mankiBi_1" editInfo="" speed="" chkItm="attr_Finfo_mankiBi_1" />
+	<ListItem type="WAV" key="ISI-0017.wav" editInfo="" speed="" chkItm="attr_Finfo_mankiBi_Wa_1" />
+	<ListItem type="VOICE_NON" key="attr_Finfo_mankiBi_Wa_1" editInfo="" speed="" chkItm="attr_Finfo_mankiBi_Wa_1" />
 	<ListItem type="WAV" key="ISI-0018.wav" editInfo="" speed="" chkItm="attr_Finfo_yakuRiritsu_1" />
 	<ListItem type="WAV" key="ISI-0095.wav" editInfo="" speed="" chkItm="attr_Finfo_yakuRiritsu_1" />
 	<ListItem type="NUM3" key="attr_Finfo_yakuRiritsu_1" editInfo="　％" speed="" chkItm="attr_Finfo_yakuRiritsu_1" />

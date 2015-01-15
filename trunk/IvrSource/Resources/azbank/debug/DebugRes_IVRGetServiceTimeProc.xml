@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- EJB応答定義ファイル -->
 <ejbResponse>
 	<ResItem type="string" length="3" value="000" name="リターンコード" />
-	<ResItem type="string" length="15" value="connectionName" name="DB接続情報" />
 	<ResItem type="string" length="1" value="0" name="予約区分" />
 	<ResItem type="string" length="8" value="20131001" name="処理予定日" />
 	<ResItem type="string" length="20" value="当日でっせ" name="表示文字" />

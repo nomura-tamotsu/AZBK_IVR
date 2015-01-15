@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!-- サービス別復唱内容 -->
+<configuration>
+	<ListItem type="WAV" key="ISI-0001.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_payBrchNo" editInfo="STN" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_payKamokuId" editInfo="KMK" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_Finfo_payAccountNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0031.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="NUM2" key="attr_Finfo_azukariNo_1" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0025.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0096.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0021.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_Finfo_mankiToriatsukai_1" editInfo="MTH" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0004.wav" editInfo="" speed="" chkItm="" />
+	<ListItem type="CODE" key="attr_FInfo_yoyakuKubun" editInfo="TAK" speed="" chkItm="" />
+	<ListItem type="DAY_YYYYMMDD" key="attr_FInfo_hostSyoriYoteibi" editInfo="" speed="" chkItm="" />
+	<ListItem type="WAV" key="ISI-0005.wav" editInfo="" speed="" chkItm="" />
+</configuration>

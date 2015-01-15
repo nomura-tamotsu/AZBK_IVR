@@ -93,4 +93,7 @@
 	<ServiceCode id="2200">
 		<Item memo="ATM暗証変更" xmlFileName="repeatcdpwdchginfo01.xml" Ptn1_Attr="" Ptn1_Val="" Ptn1_Ope="" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
 	</ServiceCode>
+	<ServiceCode id="1603">
+		<Item memo="定期満期時取扱変更" xmlFileName="repeattemankichginfo01.xml" Ptn1_Attr="" Ptn1_Val="" Ptn1_Ope="" Ptn1_Ext="" Ptn2_Attr="" Ptn2_Val="" Ptn2_Ope="" Ptn2_Ext="" Ptn3_Attr="" Ptn3_Val="" Ptn3_Ope="" Ptn3_Ext="" Ptn4_Attr="" Ptn4_Val="" Ptn4_Ope="" Ptn4_Ext="" />
+	</ServiceCode>
 </configuration>

@@ -2,6 +2,5 @@
 <!-- EJB応答定義ファイル -->
 <ejbResponse>
 	<ResItem type="string" length="3" value="000" name="リターンコード" />
-	<ResItem type="string" length="22" value="DENBUNID9012345678901E" name="電文識別子" />
-	<ResItem type="string" length="10" value="KEYCODE89E" name="スクランブルキー情報" />
+	<ResItem type="string" length="2" value="0" name="ステータス" />
 </ejbResponse>

@@ -2,11 +2,13 @@
 <configuration>
 	<section id="BankInfo">
 		<key name="BkInf_BankCode" value="0398" memo="銀行設定：自銀行コード" />
+		<key name="BkInf_TenInp" value="3" memo="銀行設定：本人認証・店番号入力桁数" />
 		<key name="BkInf_KozaInp" value="7" memo="銀行設定：本人認証・口座番号入力桁数" />
 		<key name="BkInf_TBPWInp" value="4" memo="銀行設定：本人認証・TB暗証番号入力桁数" />
 		<key name="BkInf_CDPWInp" value="4" memo="銀行設定：CD暗証変更・CD暗証番号入力桁数" />
 	</section>
 	<section id="RetryCnt">
+		<key name="ReCnt_TenInp" value="2" memo="銀行設定：店番号入力 リトライ回数" />
 		<key name="ReCnt_KozaInp" value="2" memo="銀行設定：口座番号入力 リトライ回数" />
 		<key name="ReCnt_TBPWInp" value="2" memo="銀行設定：TB暗証番号入力 リトライ回数" />
 	</section>

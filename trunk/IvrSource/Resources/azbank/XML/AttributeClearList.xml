@@ -2,9 +2,11 @@
 <configuration>
 	<Item attrname="AttMenuConfig" memo="Attendantプロファイル名(CICシステム値)" />
 	<Item attrname="attr_Conf_BkInf_BankCode" memo="自銀行コード" />
+	<Item attrname="attr_Conf_BkInf_TenInp" memo="本人認証・店番号入力桁数" />
 	<Item attrname="attr_Conf_BkInf_KozaInp" memo="本人認証・口座番号入力桁数" />
 	<Item attrname="attr_Conf_BkInf_TBPWInp" memo="本人認証・TB暗証番号入力桁数" />
 	<Item attrname="attr_Conf_BkInf_CDPWInp" memo="CD暗証変更・CD暗証番号入力桁数" />
+	<Item attrname="attr_Conf_ReCnt_TenInp" memo="店番号入力 リトライ回数" />
 	<Item attrname="attr_Conf_ReCnt_KozaInp" memo="口座番号入力 リトライ回数" />
 	<Item attrname="attr_Conf_ReCnt_TBPWInp" memo="TB暗証番号入力 リトライ回数" />
 	<Item attrname="attr_Conf_EJB_WebServerDeterminationKey" memo="Webサーバ判別キー(1：本番、2：研修)" />
@@ -54,6 +56,8 @@
 	<Item attrname="attr_TO_Ind_4-1-0030" memo="入力タイムアウト秒数：新CD暗証１_入力間" />
 	<Item attrname="attr_TO_1st_4-1-0040" memo="入力タイムアウト秒数：新CD暗証２_1桁目" />
 	<Item attrname="attr_TO_Ind_4-1-0040" memo="入力タイムアウト秒数：新CD暗証２_入力間" />
+	<Item attrname="attr_TO_1st_A-1-0030" memo="入力タイムアウト秒数：店番号_1桁目" />
+	<Item attrname="attr_TO_Ind_A-1-0030" memo="入力タイムアウト秒数：店番号_入力間" />
 	<Item attrname="attr_TO_1st_A-1-0010" memo="入力タイムアウト秒数：口座番号_1桁目" />
 	<Item attrname="attr_TO_Ind_A-1-0010" memo="入力タイムアウト秒数：口座番号_入力間" />
 	<Item attrname="attr_TO_1st_A-1-0020" memo="入力タイムアウト秒数：TB暗証_1桁目" />
@@ -191,4 +195,7 @@
 	<Item attrname="attr_Finfo_jougenKinri" memo="復唱内容情報_上限金利" />
 	<Item attrname="attr_Finfo_kikanKijituKubun" memo="復唱内容情報_期間期日区分" />
 	<Item attrname="attr_Finfo_risukuKubun" memo="復唱内容情報_リスク区分" />
+	<Item attrname="attr_Finfo_mankiBi_Wa_1" memo="満期日1（和暦）" />
+	<Item attrname="attr_Finfo_mankiBi_Wa_2" memo="満期日2（和暦）" />
+	<Item attrname="attr_Finfo_mankiBi_Wa_3" memo="満期日3（和暦）" />
 </configuration>

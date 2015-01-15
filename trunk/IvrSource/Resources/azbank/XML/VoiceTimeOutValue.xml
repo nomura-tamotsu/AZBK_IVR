@@ -9,4 +9,5 @@
 	<Item attrname="4-1-0040" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：新CD暗証２" />
 	<Item attrname="A-1-0010" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：口座番号" />
 	<Item attrname="A-1-0020" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：TB暗証" />
+	<Item attrname="A-1-0030" TO_First="10" TO_Ind="5" memo="入力タイムアウト秒数：店番号" />
 </configuration>

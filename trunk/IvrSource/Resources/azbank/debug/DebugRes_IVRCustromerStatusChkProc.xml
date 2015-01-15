@@ -1,16 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- EJB応答定義ファイル -->
 <ejbResponse>
 	<ResItem type="string" length="3" value="000" name="リターンコード" />
-	<ResItem type="string" length="15" value="DB接続情報" name="DB接続情報" />
 	<ResItem type="string" length="2" value="0" name="ステータス" />
-	<ResItem type="string" length="5" value="101" name="営業店ID" />
-	<ResItem type="string" length="10" value="1000000001" name="顧客番号" />
-	<ResItem type="string" length="80" value="契約者０１" name="氏名漢字" />
-	<ResItem type="string" length="80" value="ｹｲﾔｸｼｬｲﾁ" name="氏名カナ" />
-	<ResItem type="string" length="14" value="20140101122448" name="利用開始日時" />
-	<ResItem type="string" length="8" value="10000001" name="担当TSR" />
-	<ResItem type="string" length="10" value="1" name="契約者番号" />
-	<ResItem type="string" length="4" value="1001" name="代表科目ID" />
-	<ResItem type="string" length="1" value="1" name="代表口座種類ID" />
-	<ResItem type="string" length="18" value="000001000000001001" name="代表口座番号" />
+	<ResItem type="string" length="5" value="115" name="営業店ID" />
+	<ResItem type="string" length="10" value="8010888" name="顧客番号" />
+	<ResItem type="string" length="80" value="髙橋　和也" name="氏名漢字" />
+	<ResItem type="string" length="80" value="ﾅｼﾀﾞ ｶｽﾞﾔ" name="氏名カナ" />
+	<ResItem type="string" length="14" value="" name="利用開始日時" />
+	<ResItem type="string" length="8" value="" name="担当TSR" />
+	<ResItem type="string" length="10" value="2000000286" name="契約者番号" />
 </ejbResponse>

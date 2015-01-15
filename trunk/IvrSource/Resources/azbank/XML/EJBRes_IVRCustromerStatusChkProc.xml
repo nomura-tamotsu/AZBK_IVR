@@ -10,7 +10,4 @@
 	<ResItem type="string" length="14" value="startDateTime" name="利用開始日時" />
 	<ResItem type="string" length="8" value="tsrId" name="担当TSR" />
 	<ResItem type="string" length="10" value="keiyakuNo" name="契約者番号" />
-	<ResItem type="string" length="4" value="daihyoKamokuCode" name="代表科目ID" />
-	<ResItem type="string" length="1" value="daihyoKozaSyuruiID" name="代表口座種類ID" />
-	<ResItem type="string" length="15" value="daihyoKozaBango" name="代表口座番号" />
 </ejbResponse>
