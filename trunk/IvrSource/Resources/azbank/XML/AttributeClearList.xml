@@ -89,7 +89,7 @@
 	<Item attrname="attr_RcvCTI_k_tb_session_id" memo="CTI：セッションID" />
 	<Item attrname="attr_RcvCTI_k_tenpo_no" memo="CTI：店番" />
 	<Item attrname="attr_RcvCTI_k_env" memo="CTI：環境" />
-	<Item attrname="attr_Keiyakuban" memo="契約者番号" />
+	<Item attrname="attr_KeiyakuNo" memo="契約者番号" />
 	<Item attrname="attr_Tenpo_no" memo="店番" />
 	<Item attrname="attr_Cif_no" memo="CIF番号" />
 	<Item attrname="attr_Name_kj" memo="漢字氏名" />
