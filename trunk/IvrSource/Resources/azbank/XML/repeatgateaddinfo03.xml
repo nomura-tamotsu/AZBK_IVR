@@ -42,7 +42,7 @@
 	<ListItem type="WAV" key="TKT-0002.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_daihyoKamokuId" editInfo="KMK" speed="" chkItm="" />
 	<ListItem type="NUM1" key="attr_Finfo_daihyoAccountNo" editInfo="" speed="" chkItm="" />
-	<ListItem type="NUM1" key="attr_Finfo_daihyoAccountKuchiNo" editInfo="" speed="" chkItm="" />
+	<ListItem type="NUM1" key="attr_Finfo_daihyoAccountKuchiNo" editInfo="" speed="" chkItm="attr_Finfo_daihyoAccountKuchiNo" />
 	<ListItem type="WAV" key="ISI-0093.wav" editInfo="" speed="" chkItm="" />
 	<ListItem type="CODE" key="attr_Finfo_uketoriAccountCurrencyId" editInfo="TUK" speed="" chkItm="attr_Finfo_uketoriAccountCurrencyId" />
 	<ListItem type="WAV" key="ISI-0039.wav" editInfo="" speed="" chkItm="" />
