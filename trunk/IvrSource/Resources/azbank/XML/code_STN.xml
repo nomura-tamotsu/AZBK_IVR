@@ -22,7 +22,7 @@
 	<item Code="181" wavfile="STN-0019.wav" memo="バンク支店" />
 	<item Code="213" wavfile="STN-0020.wav" memo="関西支店" />
 	<item Code="182" wavfile="STN-0021.wav" memo="バンクブルー支店" />
-	<item Code="183" wavfile="STN-0022.wav" memo="バンクスカイ支店 />
+	<item Code="183" wavfile="STN-0022.wav" memo="バンクスカイ支店" />
 	<item Code="184" wavfile="STN-0023.wav" memo="バンクマリン支店" />
-	<item Code="185" wavfile="STN-0024.wav" memo="バンクコバルト支店" />	
+	<item Code="185" wavfile="STN-0024.wav" memo="バンクコバルト支店" />
 </configuration>
