@@ -4,5 +4,5 @@
 	<item Code="1" wavfile="AZK-0001.wav" memo="特定預り" />
 	<item Code="2" wavfile="AZK-0002.wav" memo="一般預り" />
 	<item Code="5" wavfile="AZK-0003.wav" memo="NISA優先" />
-	<item Code="6" wavfile="AZK-0003.wav" memo="NISA優先" />
+	<item Code="6" wavfile="AZK-0004.wav" memo="NISA預り" />
 </configuration>
