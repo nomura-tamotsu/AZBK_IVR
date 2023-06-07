@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- EJB応答定義ファイル -->
+<ejbResponse>
+	<ResItem type="string" length="3" value="returnCode" name="リターンコード" />
+	<ResItem type="string" length="1" value="status" name="ステータス" />
+	<ResItem type="string" length="5" value="branchId" name="営業店ID" />
+	<ResItem type="string" length="10" value="customerNo" name="顧客番号" />
+	<ResItem type="string" length="80" value="nameKanji" name="氏名漢字" />
+	<ResItem type="string" length="80" value="nameKana" name="氏名カナ" />
+</ejbResponse>
